@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Dineshkumar Anbalagan 👋</h1>
 
 <p align="center">
-  <img src="assets/profile-demo.gif" alt="Java Backend Developer Profile Demo" width="800"/>
+  <img src="assets/profile-demo-java-backend.gif" alt="Java Backend Developer Profile Demo" width="800"/>
 </p>
 
 <h3 align="center">Java Backend Developer | Spring Boot | REST APIs | PostgreSQL | Elasticsearch</h3>
