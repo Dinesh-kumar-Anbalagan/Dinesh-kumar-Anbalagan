@@ -8,7 +8,7 @@
 
 ---
 
-### About Me
+ About Me
 
 I am a Java Backend Developer with 2+ years of experience in logistics and real estate domains. I recently completed my MSc Computer Science from the University of Hertfordshire, UK.
 
@@ -32,9 +32,9 @@ I enjoy building backend services, REST APIs, database-driven applications, sear
 
 ---
 
-### Featured Project
+ Featured Project
 
-**Dynamic Shipment Orchestration Backend**
+Dynamic Shipment Orchestration Backend**
 
 A Java Spring Boot backend project using a ServiceBus/Orchestrator pattern to dynamically route requests to database, search, and reporting services.
 
@@ -42,7 +42,7 @@ Tech used: Java 17, Spring Boot, PostgreSQL, MyBatis, Flyway, Elasticsearch, Jas
 
 ---
 
-### Connect With Me
+Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/Dinesh-kumar-Anbalagan
 - Email: dineshkumar15.anbalagan@gmail.com
