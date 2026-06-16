@@ -16,7 +16,7 @@ I enjoy building backend services, REST APIs, database-driven applications, sear
 
 ---
 
-### Tech Stack
+ Tech Stack
 
 - Java
 - Spring Boot
