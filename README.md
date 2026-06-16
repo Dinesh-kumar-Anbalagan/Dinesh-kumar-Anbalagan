@@ -34,7 +34,7 @@ I enjoy building backend services, REST APIs, database-driven applications, sear
 
  Featured Project
 
-Dynamic Shipment Orchestration Backend**
+Dynamic Shipment Orchestration Backend
 
 A Java Spring Boot backend project using a ServiceBus/Orchestrator pattern to dynamically route requests to database, search, and reporting services.
 
